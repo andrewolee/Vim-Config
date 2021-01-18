@@ -1,8 +1,13 @@
+set nocompatible
+filetype plugin indent on
 set number
 syntax on
+set showcmd
+set hlsearch
 colorscheme pablo 
-set tabstop=4
 set autoindent
 set expandtab
 set softtabstop=4
+set tabstop=4
+set shiftwidth=4
 
